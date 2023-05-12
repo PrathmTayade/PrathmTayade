@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Tayade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 My Personal Portfolio [Personal Portfolio](https://github.com/PrathmTayade/portfolio-website)
+- 🔭 My Personal Portfolio [Personal Portfolio](https://portfolio-website-prathmtayade.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs, React Native, Python**
 
