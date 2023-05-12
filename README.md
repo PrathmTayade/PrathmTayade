@@ -3,7 +3,7 @@
 
 - 🔭 My Personal Portfolio [Personal Portfolio](https://portfolio-website-prathmtayade.vercel.app/)
 
-- 🌱 I’m currently learning **Nextjs, React Native, Python**
+- 🌱 I’m currently learning **React Native, Python, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
