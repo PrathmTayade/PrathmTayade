@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Tayade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Senior Fullstack Developer from India</h3>
 
 - 🔭 My Personal Portfolio [Personal Portfolio](https://portfolio-website-prathmtayade.vercel.app/)
 
-- 🌱 I’m currently learning **React Native, Python, Django**
+- 🌱 I’m currently learning **Devops, GO, Rust.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
